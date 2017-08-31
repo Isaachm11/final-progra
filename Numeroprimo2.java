@@ -29,7 +29,7 @@ public class Numeroprimo2
         if (acum == 2) {
           System.out.println(a + " es número primo");
         } else if (acum != 2) {
-          System.out.println(a + " no es un número prim");
+          System.out.println(a + " no es un número primo");
         }
 
     }
